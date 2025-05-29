@@ -11,3 +11,4 @@ elif disc > 0:
     sol1=(-b-disc**0.5)/(2*a)
     sol2=(-b+disc**0.5)/(2*a)
     print(f"dos soluciones {sol1} y {sol2}")
+    
