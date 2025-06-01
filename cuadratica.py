@@ -1,6 +1,6 @@
 a = float(input("coef cuad="))
 b = float(input("coef lineal="))
-c = float(input("coaf libre="))
+c = float(input("coef libre="))
 disc = b**2 - 4 * a * c
 if disc == 0:
     sol = -b / (2 * a)
